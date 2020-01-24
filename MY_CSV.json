@@ -1,0 +1,22 @@
+{
+  "Part": {
+    "users": [
+      {
+        "PhoneNumber": "42929264",
+        "Messages": "hello"
+      },
+      {
+        "PhoneNumber": "42929264",
+        "Messages": "hello1"
+      },
+      {
+        "PhoneNumber": "42929264",
+        "Messages": "hello2"
+      },
+      {
+        "PhoneNumber": "42929264",
+        "Messages": "hello3"
+      }
+    ]
+  }
+}
